@@ -1,2 +1,2 @@
 # Olá, Mundo!
-Meu primeiro repositóri!
+Meu primeiro repositório!
